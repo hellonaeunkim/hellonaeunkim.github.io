@@ -290,3 +290,12 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+#github pages code block number
+markdown: kramdown
+kramdown:
+    highlighter: rouge
+    syntax_highlighter_opts:
+        block:
+            line_numbers: true
