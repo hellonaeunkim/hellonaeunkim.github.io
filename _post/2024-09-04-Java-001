@@ -1,0 +1,64 @@
+---
+title:  "Java 입출력 (Input, Output)"
+excerpt: " 🌸  Java 입출력 (Input, Output)
+
+    ⇢ System.out.println("Hello World")
+
+
+
+ 🌸  Example
+
+
+'''
+package first;
+
+public class HelloWorld {
+
+//	프로그램의 시작점
+
+	public static void main(String[] args) {
+
+		System.out.println("Hello World");
+
+
+
+	}
+
+
+
+}
+
+'''
+
+   🌸  Tips
+
+    Eclipse (이클립스) autocomplete for mac
+
+    1. Press Command(⌘) + Commas(,) for open the Preference
+
+    2. Searcth the 'content assist'
+
+    3. Enter the below in Auto activation triggers for Java 
+
+        <$:{.@qwertyuioplkjhgfdsazxcvbnm_QWERTYUIOPLKJHGFDSAZXCVBNM
+
+
+
+<img width="900" alt="Screenshot 2024-09-04 at 11 31 24 AM" src="https://github.com/user-attachments/assets/9daefe12-2d15-4c3d-90e4-713050f031c5">
+
+
+
+
+ "
+
+categories:
+  - Blog
+tags:
+  - [Java]
+
+toc: true
+toc_sticky: true
+ 
+date: 2024-09-04
+last_modified_at: 2024-09-04
+---
