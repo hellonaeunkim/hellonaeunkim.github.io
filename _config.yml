@@ -290,6 +290,7 @@ defaults:
       comments: # true
       share: true
       related: true
+      sidebar_main: true
 
 
 #github pages code block number
@@ -299,20 +300,3 @@ kramdown:
     syntax_highlighter_opts:
         block:
             line_numbers: true
-
-
-            # Defaults
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      mathjax: true
-      sidebar_main: true
