@@ -290,7 +290,6 @@ defaults:
       comments: # true
       share: true
       related: true
-      sidebar_main: true
 
 
 #github pages code block number
