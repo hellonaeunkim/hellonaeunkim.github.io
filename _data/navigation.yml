@@ -1,7 +1,16 @@
-# main links
-main:
-  - title: "Category"
-    url: /categories/
+
+sidebar-category:
+  - title: "Categories"
+    children:
+      - title: "Java"
+        url: "categories/java"
+      - title: "Java Study"
+        url:  "categories/javastudy"
+      - title: "Algorithm"
+        url:  "categories/algorithm"
+        - title: "Programmers"
+        url:  "categories/programmers"
+        
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
